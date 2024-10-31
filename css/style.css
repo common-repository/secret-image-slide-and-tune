@@ -1,0 +1,23 @@
+#codeComplete, #saveReminder {
+	color: #dc3232;
+	display: none;
+}
+
+#saveReminder3, #saveReminder4, #saveReminder5, #saveReminder6, #saveReminder7 {
+	color: #dc3232;
+	display: none;
+}
+
+#hiddenSecretImageSlideAndTunePublishAction, #custom-plugin-settings-success, #custom-plugin-settings-error {
+	display: none;
+}
+
+#secretImageSlideAndTunePublishAction, #secretImageSlideAndTunePublishReset {
+	margin-bottom: 15px;
+	margin-right: 15px;
+}
+
+.secret-image-slide-and-tune-plugin-review {
+	clear:  both;
+	float:  left;
+}
